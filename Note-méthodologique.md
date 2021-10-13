@@ -8,3 +8,6 @@
 - Preprocessing
 - Création de notre modèle
 - Création de la présentation
+
+
+Data utilisé disponible ici : https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv
